@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 100;
+  }
+  .value{
+    padding: 15px;
+  border-radius: 3px;
+  background:white;
+  display: inline-block;
+  }
+  .label{
+    display: block;
+  padding-top: 5px;
+  font-size: 16px;
+  }
+  .field {
+    padding: 10px;
+    border-radius: 3px;
+    background:grey;
+    display: inline-block;
+  }  
